@@ -27,6 +27,8 @@
 20.git add -A && git commit -m "Add .gitignore file"
 21.checkout main
    git push origin feature-update
+22.git branch -d feature-update
+23.git push origin --delete feature update
 =======
 
 >>>>>>> feature-update
